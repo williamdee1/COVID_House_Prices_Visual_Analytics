@@ -1,4 +1,4 @@
-# Abstract
+# Understanding the Spatial and Temporal Impact of the Coronavirus 2019 Disease (COVID-19) on House Prices in England and Wales
 This study investigates how annual house price appreciation has been affected during 2020 by the COVID-19 pandemic. It 
 uses a dataset-fusion approach, combining price-paid data with COVID-19 cases, population and average garden size figures, aggregated at
 a county level. Using visualizations to inform the process, new features are extracted to be modelled using regression techniques. A 
