@@ -12,4 +12,7 @@ recovery after the August Government stimulus measures. The trends were inconsis
 datasets added. Spatially, clustering resulted in four distinct groups of counties that experienced the pandemic differently in terms of house 
 price appreciation, giving insight into the preference changes of buyers and identifying counties in need of further support.
 
+
 ![image](https://user-images.githubusercontent.com/54633647/118655817-cf659e00-b7e1-11eb-89a8-e1b9cc5d8b2f.png)
+
+Please see the report above for more details.
